@@ -1,2 +1,2 @@
 # TreatYourSelf
-![My Image](img/preview1.png)
+![My Image](img/Preview1.png)
