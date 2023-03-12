@@ -1,0 +1,15 @@
+#navbar{
+    flex-direction: column;
+}
+#home{
+    height: 125px;
+}
+#home::before{
+    height:125px;
+}
+#services {
+    flex-direction: column;
+}
+.h-primary{
+    font-size: 26px;
+}
